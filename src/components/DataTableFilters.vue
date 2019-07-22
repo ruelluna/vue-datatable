@@ -13,13 +13,13 @@
             </select>
         </div>
         <div class="col-md-3">
-            <select
+           <!--  <select
                 v-model="tableData.filters.isAdmin"
                 class="form-control">
                 <option value>All</option>
                 <option value='admin'>Admin</option>
                 <option value='staff'>Staff</option>
-            </select>
+            </select> -->
         </div>
         <div class="col-md-3 offset-md-3">
             <input
